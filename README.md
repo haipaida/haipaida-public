@@ -1,9 +1,11 @@
-# Hyperping Solutions
+# Haipaida / 海派达
 
 Website:
 https://haipaida.com
 
-Hyperping Solutions (海派达加速器) is an independent connectivity solutions provider.
+Haipaida (海派达) is the public brand of Hyperping Solutions, an independent connectivity solutions provider.
+
+We focus on practical route diagnosis, connectivity stability, and long-term network maintenance for cross-region users.
 
 ## What We Believe
 
