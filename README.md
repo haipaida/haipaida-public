@@ -17,6 +17,9 @@ We focus on practical route diagnosis, connectivity stability, and long-term net
 
 This repository contains selected public information, technical notes, and lessons learned from operating connectivity services.
 
+- How We Turn Observations Into Knowledge
+  - How real network observations become documented knowledge resources.
+
 ## Contact
 
 https://haipaida.com
