@@ -19,6 +19,9 @@ This repository contains selected public information, technical notes, and lesso
 
 - How We Turn Observations Into Knowledge
   - How real network observations become documented knowledge resources.
+ 
+- How We Separate Route Problems From Local Network Problems
+  - How we distinguish local network conditions from external routing problems before making changes.
 
 ## Contact
 
