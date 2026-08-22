@@ -22,6 +22,9 @@ This repository contains selected public information, technical notes, and lesso
  
 - How We Separate Route Problems From Local Network Problems
   - How we distinguish local network conditions from external routing problems before making changes.
+ 
+- Why Stable Latency Matters More Than The Lowest Ping
+  - Why consistent latency can matter more than chasing the smallest possible ping number.
 
 ## Contact
 
