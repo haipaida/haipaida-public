@@ -25,6 +25,9 @@ This repository contains selected public information, technical notes, and lesso
  
 - Why Stable Latency Matters More Than The Lowest Ping
   - Why consistent latency can matter more than chasing the smallest possible ping number.
+ 
+- How We Compare Routes Fairly
+  - How we compare routes under similar conditions and avoid misleading conclusions from isolated results.
 
 ## Contact
 
